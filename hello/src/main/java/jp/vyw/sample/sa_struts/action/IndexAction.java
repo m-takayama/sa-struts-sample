@@ -1,4 +1,4 @@
-package jp.vyw.sample.action;
+package jp.vyw.sample.sa_struts.action;
 
 import org.seasar.struts.annotation.Execute;
 
